@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Projeto Vagrant 2</h2>
-  <h1>Vagrant SHell<h2>
+  <h1>Vagrant Seell<h2>
 
 ![preview](https://github.com/Monty-Gabriel/projeto_02/blob/main/preview/vagrant_shell.gif)
 
